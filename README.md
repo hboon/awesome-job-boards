@@ -66,7 +66,7 @@ You can also check out the following resources:
 - [Careerday](https://careerday.com/)
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
-- [AI Applyd](https://aiapplyd.com) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
+- [GetMattered](https://getmattered.com/) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
 - [Resume Roaster](https://resume.roastlabai.com) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
 - [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
@@ -78,6 +78,7 @@ You can also check out the following resources:
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resumes, job-fit analysis, text-based interview practice, and application tracking.
 - [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 - [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
+- [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) - Open-source AI job application framework built on Claude Code that runs locally to evaluate postings, tailor CVs, write cover letters, and prepare for interviews.
 
 ## AI
 
@@ -90,6 +91,7 @@ You can also check out the following resources:
 - [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees.
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
+- [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
 - [Robot Jobs Board](https://www.robotjobsboard.com) - Robotics and automation roles (AMR, humanoid, drones, ROS) across US, UK, and Europe.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
@@ -282,6 +284,7 @@ You can also check out the following resources:
 - [Remote Landers](https://remotelanders.com) - Fully remote jobs from employers' own ATS, salary shown on every listing.
 - [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
 - [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, from 2,400+ employer career pages, each scored 0-100 against your resume.
+- [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link to the employer on every listing; no duplicates or stale posts.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -479,6 +482,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 - [igamingjobs](https://igamingjobs.io/) - iGaming job board: online casino, sportsbook, affiliate, compliance and payments roles at operators and suppliers, remote and on-site, updated daily.
+- [Get HN Jobs](https://gethnjobs.com/) - Search and filter Hacker News "Who is hiring?" posts by role, stack, remote policy and location, with daily email alerts.
 
 ## Entry Level
 
@@ -597,6 +601,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [JobJump](https://jobjump.net/)
 - [DACH Early-Career Jobs](https://github.com/heynish/werkstudent-praktikum-jobs)
 - [Pegel](https://pegel.berlin/jobs) - Free job board for Berlin startups, updated from public company ATS feeds three times a day.
+- [Jobs Without German](https://www.jobswithoutgerman.de/?utm_source=github&utm_medium=promo&utm_campaign=w43-wed) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
 
 ### Netherlands
 
